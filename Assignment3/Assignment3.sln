@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3", "Assignment3\Assignment3.csproj", "{103F2519-FBA4-4C21-AF5E-4AB7F390AA06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3reverse", "Assignment3reverse\Assignment3reverse.csproj", "{C208150B-DEF4-4D42-AC31-39012E853A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103F2519-FBA4-4C21-AF5E-4AB7F390AA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103F2519-FBA4-4C21-AF5E-4AB7F390AA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103F2519-FBA4-4C21-AF5E-4AB7F390AA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103F2519-FBA4-4C21-AF5E-4AB7F390AA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C208150B-DEF4-4D42-AC31-39012E853A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C208150B-DEF4-4D42-AC31-39012E853A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C208150B-DEF4-4D42-AC31-39012E853A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C208150B-DEF4-4D42-AC31-39012E853A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD711122-D052-491C-8452-811490D1CB85}
+	EndGlobalSection
+EndGlobal
