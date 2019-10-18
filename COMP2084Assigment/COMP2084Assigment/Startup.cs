@@ -13,6 +13,7 @@ using COMP2084Assigment.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+
 namespace COMP2084Assigment
 {
     public class Startup
@@ -41,6 +42,8 @@ namespace COMP2084Assigment
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
